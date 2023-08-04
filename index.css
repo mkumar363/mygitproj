@@ -1,0 +1,17 @@
+.out-square{
+    height: 600px;
+    width: 600px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.in-square{
+    background-color: green;
+    margin: 10px;
+    width: 180px;
+}
+.circle{
+    background-color: blue;
+    margin: 10px;
+    width: 180px;
+    border-radius: 50%;
+}
